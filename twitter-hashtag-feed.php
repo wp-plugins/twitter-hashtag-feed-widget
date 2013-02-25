@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Twitter Hashtag Feed Widget
-Plugin URI: 
+Plugin URI: http://wordpress.org/extend/plugins/twitter-hashtag-feed-widget
 Description: This is a sidebar widget that creates a simple, clean Twitter feed of a specified hashtag.
 Version: 1.0.2
 Author: Nick McLarty
